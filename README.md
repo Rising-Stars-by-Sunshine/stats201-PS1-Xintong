@@ -48,6 +48,6 @@ Miskelly, Frank G. 2001. “Assistive Technology in Elderly Care.” Age and Age
 
 Scherer, Marcia J. 1996. “Outcomes of Assistive Technology Use on Quality of Life.” Disability and Rehabilitation 18 (9): 439–48. https://doi.org/10.3109/09638289609165907.
 
-———. 2016. “Technology Adoption, Acceptance, Satisfaction and Benefit: Integrating Various Assistive Technology Outcomes.” Disability and Rehabilitation: Assistive Technology 12 (1): 1–2. https://doi.org/10.1080/17483107.2016.1253939.
+Scherer, Marcia J. 2016. “Technology Adoption, Acceptance, Satisfaction and Benefit: Integrating Various Assistive Technology Outcomes.” Disability and Rehabilitation: Assistive Technology 12 (1): 1–2. https://doi.org/10.1080/17483107.2016.1253939.
 
 Wessels, R., B. Dijcks, M. Soede, G.J. Gelderblom, and L. De Witte. 2004. “Non-Use of Provided Assistive Technology Devices, a Literature Overview.” Technology and Disability 15 (4): 231–38. https://doi.org/10.3233/tad-2003-15404.
