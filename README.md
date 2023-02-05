@@ -7,4 +7,17 @@ Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke
 
 ## Sample Project
 
-[Problem Set1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/blob/main/code/%E2%80%9CXintong%20Wu_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API_ipynb%E2%80%9D.ipynb)
++ [Problem Set1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/blob/main/code/%E2%80%9CXintong_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API_ipynb%E2%80%9D.ipynb)
++ [NLP Assitive technology](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/blob/main/code/%E2%80%9CNLP_Assitive_technology_ipynb%E2%80%9D.ipynb)
+
+## Data
+[NLP](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/tree/main/data)
+
+## Code
++ [Problem Set1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/blob/main/code/%E2%80%9CXintong_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API_ipynb%E2%80%9D.ipynb)
++ [NLP Assitive technology](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/blob/main/code/%E2%80%9CNLP_Assitive_technology_ipynb%E2%80%9D.ipynb)
+
+## Spotlight
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong/blob/main/spotlight/title.png)
+
+## References
